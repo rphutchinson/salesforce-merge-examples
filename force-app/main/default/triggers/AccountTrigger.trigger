@@ -1,3 +1,3 @@
 trigger AccountTrigger on Account (before insert) {
-	System.debug('!!!');
+	System.debug('Goodbye cruel world :(');
 }
